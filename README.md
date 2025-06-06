@@ -9,7 +9,7 @@
 [![Static Badge](https://img.shields.io/badge/Y%20Combinator-W25-orange)](https://www.ycombinator.com/companies?batch=W25)
 
 Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals. You can run Mastra on your local machine, or deploy to a serverless cloud.
-
+sds
 The main Mastra features are:
 
 | Features                                               | Description                                                                                                                                                                                                                                                                                            |
